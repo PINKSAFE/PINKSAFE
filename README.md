@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**PINKSAFE/PINKSAFE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 👩🏽‍💻 Over Mij
 
 Ik ben een softwareontwikkelaar in opleiding aan de Bit Academy met een passie voor schone, efficiënte en duidelijke code. Mijn focus ligt op webontwikkeling, met speciale aandacht voor CSS-frameworks en responsive design. Momenteel werk ik aan een project om de Bit Academy-website een make-over te geven.
